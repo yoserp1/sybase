@@ -1,6 +1,6 @@
 {
     "name": "yoserp1/sybase-eloquent",
-    "description": "Paquete para conexion a sybase y generador query builder",
+    "description": "Paquete para conexion a base de datos Sybase y query builder",
     "type": "library",
     "require": {
         "php": ">=5.5",
