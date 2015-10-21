@@ -1,0 +1,20 @@
+{
+    "name": "yoserp1/sybase-eloquent",
+    "description": "Paquete para conexion a sybase y generador query builder",
+    "type": "library",
+    "require": {
+        "php": ">=5.5",
+        "laravel/framework": "5.*"
+    },
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Yoser Perez",
+            "email": "yoserp1@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": { "Yoserp1\\SybaseEloquent\\Src\\": "" }
+    }
+}
